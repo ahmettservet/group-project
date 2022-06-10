@@ -28,8 +28,8 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    background: linear-gradient(to bottom right, rgb(252, 38, 170), #333);
-    background-color: hotpink;
+    background: linear-gradient(to bottom right, rgb(252, 45, 38), #333);
+    background-color: rgb(255, 105, 105);
     padding: 3px;
 }
 
